@@ -245,6 +245,10 @@ p
 /* Media-Query */
 @media (max-width: 1100px)
 {
+    .title-description
+    {
+        text-align: center;
+    }
     .navbar-nav
     {
         text-align: right;
